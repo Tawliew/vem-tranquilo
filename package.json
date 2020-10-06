@@ -15,7 +15,7 @@
   ],
   "author": "Tawliew",
   "email": "lfluiz.lf@gmail.com",
-  "url" : "http://tawliew.github.io",
+  "url": "http://tawliew.github.io",
   "license": "MIT",
   "bin": {
     "daledale": "./index.js"

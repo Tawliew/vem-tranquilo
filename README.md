@@ -1,7 +1,7 @@
 # DaleDale Command Line Sound
 
 <div style="text-align: center">
-    <img src="./daledale.jpg" height="300"/>
+    <img src="./daledale.png" height="300"/>
 </div>
 
 > VEM TRANQUILO VEM TRANQUILO, VEM AFOBADO ASSIM NÃO, VEM TRANQUILO, CALMA PRA QUE ISSO, VEM TRANQUILO PO VEM TRANQUILO
