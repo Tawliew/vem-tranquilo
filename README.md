@@ -1,4 +1,4 @@
-# DaleDale Command Line Sound
+# VEM TRANQUILO Command Line Sound
 
 <div style="text-align: center">
     <img src="./vem-tranquilo.png" height="300"/>
